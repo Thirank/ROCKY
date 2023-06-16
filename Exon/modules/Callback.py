@@ -156,7 +156,7 @@ def ABG_about_callback(update, context):
                             text="sᴜᴘᴘᴏʀᴛ", url=f"t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/beta_botz"
+                            text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Mc_Films_Update"
                         ),
                     ],
                     [
@@ -188,7 +188,7 @@ def ABG_about_callback(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴊᴇᴏʟ", url="https://t.me/about_jeol"
+                            text="ᴊᴇᴏʟ", url="https://t.me/Mc_Group_Films"
                         ),
                         InlineKeyboardButton(
                             text="ᴄʜᴀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
@@ -233,7 +233,7 @@ def Source_about_callback(update, context):
                     [
                         InlineKeyboardButton(
                             text="ꜱᴏᴜʀᴄᴇ",
-                            url="https://github.com/itz-jeol/ROCKY",  # DON'T CHANGE
+                            url="https://t.me/Mc_Group_Films",  # DON'T CHANGE
                         ),
                     ],
                 ]
